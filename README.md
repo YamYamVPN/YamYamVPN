@@ -8,6 +8,10 @@
 
 <br>
 
+<a href="https://play.google.com/store/apps/details?id=com.yamyam.vpn"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="240"></a>
+
+<br>
+
 [![Android](https://img.shields.io/badge/Android-7.0%2B-success?logo=android)](https://yamyamvpn.top/download/)
 [![Platform](https://img.shields.io/badge/Platform-Android-blue)](https://yamyamvpn.top/)
 [![Price](https://img.shields.io/badge/Price-Free-brightgreen)](https://yamyamvpn.top/)
